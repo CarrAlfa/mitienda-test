@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "playwright test",
-    "test:report": "playwright test --reporter=html && playwright show-report""
+    "test:report": "playwright test --reporter=html && playwright show-report"
   },
   "repository": {
     "type": "git",
